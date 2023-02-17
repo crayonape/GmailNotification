@@ -8,6 +8,10 @@ I think browser is already the best Gmail client, but I couldn't be notified of 
 
 A week ago I knew nothing about [Swift](https://developer.apple.com/swift/) / [SwiftUI](https://developer.apple.com/xcode/swiftui/) / [AppKit](https://developer.apple.com/documentation/appkit/), but now I succeeded in making this tiny app out. Thougn I'm pretty sure there are a lot of bugs in it, it works! That's enough for me.
 
+## Version
+
+Macos >= 12.0 required, tested on 12.6.3
+
 ## Installation
 
 You need to follow [Oauth2](https://developers.google.com/identity/sign-in/ios/start-integrating) to generate your own `Info.plist` and add your gmail account to the whitelist.
