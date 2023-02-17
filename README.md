@@ -6,7 +6,7 @@ A tiny Gmail client for Mac to retrieve notifications.
 
 I think browser is already the best Gmail client, but I couldn't be notified of the new email if I don't open the browser. The desktop notification in Gmail's setting doesn't work for me, so I decided to write an app which could inform me when I have new email, that's it.
 
-A week ago I knew nothing about [Swift](https://developer.apple.com/swift/) / [SwiftUI](https://developer.apple.com/xcode/swiftui/) / [AppKit](https://developer.apple.com/documentation/appkit/), but now I succeeded in making this tiny app out. Thougn I'm pretty sure there are a lot of bugs in it, it works! That's enough for me.
+A week ago I knew nothing about [Swift](https://developer.apple.com/swift/) / [SwiftUI](https://developer.apple.com/xcode/swiftui/) / [AppKit](https://developer.apple.com/documentation/appkit/), but now I succeeded in making this tiny app out. Though I still know little about Swift / SwiftUI / AppKit, though I'm pretty sure there are a lot of bugs in it, it works! That's enough for me.
 
 ## Version
 
@@ -42,7 +42,7 @@ The **Envelop** on the top-right corner is used to open Gmail in browser.
 
 #### Avatar
 
-Fetching avatar is asynchronouse, if it fails, you can click the avatar circle to fetch it again.
+Fetching avatar is asynchronouse, if it fails, you can click the default avatar to fetch it again.
 
 #### Name && Email Address
 
