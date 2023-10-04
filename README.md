@@ -2,10 +2,6 @@
 
 A tiny Gmail client for Mac to retrieve notifications. 
 
-## Youtube
-
-https://www.youtube.com/watch?v=5-oPdL34BDI&t=1s
-
 ### Backstory
 
 I think browser is already the best Gmail client, but I couldn't be notified of the new email if I don't open the browser. The desktop notification in Gmail's setting doesn't work for me, so I decided to write an app which could inform me when I have new email, that's it.
