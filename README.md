@@ -72,19 +72,6 @@ Exit the app.
 
 This app is based on Google's [GIDSignIn](https://developers.google.com/identity/sign-in/), it only supports one account. If you need to support multiple accounts, [GTMAppAuth](https://github.com/google/GTMAppAuth) is a choice. Cause I don't have plenty of time now, maybe I'll support this later.
 
-## Donate
-
-If you find this app helpful, you can buy me a coffee.
-
-**AliPay:** <br><br>
-<img src="https://user-images.githubusercontent.com/9478533/219503117-506d32df-9ba3-42c0-98c7-a49917efabbf.jpg"  width="200" height="200">    
-
-**Wechat:** <br><br>
-<img src="https://user-images.githubusercontent.com/9478533/219503122-5b8f0a61-598f-46b0-8312-6c7bd2b1270c.jpg"  width="200" height="200">    
-
-**Paypal(Click):** <br><br>
-[<img src="https://user-images.githubusercontent.com/9478533/219503121-999e63fc-df03-4454-897f-1f415e130327.jpg" width="200" height="50">](https://paypal.me/CrayonApe)  
-
 
 
 
